@@ -1,3 +1,9 @@
+/*
+Disclaimer:
+Ini bukan UUID standar.
+Ini adalah generator ID acak berbasis hex untuk kebutuhan internal.
+*/
+
 #include <iostream>
 #include <random>
 #include <sstream>
