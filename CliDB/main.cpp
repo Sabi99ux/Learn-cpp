@@ -1,6 +1,9 @@
 #include <iostream>
+#include "include/database.hpp"
 
 int main() {
+
+    initDatabase();
 
     std::string choice;
 
