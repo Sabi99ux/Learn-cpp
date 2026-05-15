@@ -1,9 +1,7 @@
 #include <iostream>
-#include "include/database.hpp"
+#include "include/add.hpp"
 
 int main() {
-
-    initDatabase();
 
     std::string choice;
 
@@ -18,7 +16,7 @@ int main() {
         std::getline(std::cin, choice) ;
 
         if (choice == "add") {
-            // Panggil program add dari add.hpp
+            int value = add();
         }
         else if (choice == "remove") {
             // Panggil program remove dari remove.hpp
