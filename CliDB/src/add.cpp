@@ -90,6 +90,8 @@ int add() {
     output.close();
 
     std::cout << "\nData saved successfully\n";
+    std::cout << "This is your UUID you can save for other needs : \n" ;
+    std::cout << uuid ;
 
     return 0;
 }

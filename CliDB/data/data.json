@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "age": 25,
+            "degree": "MASTER",
+            "email": "sabi@student.mit.edu",
+            "major": "Cs",
+            "name": "sabi",
+            "semester": 2,
+            "university": "MIT",
+            "uuid": "8f20b56d-93cd-54f0-e61b-254be6c58361"
+        }
+    ]
+}
