@@ -5,7 +5,7 @@
 
 using json = nlohmann::json;
 
-int remove_user() {
+int remove() {
 
     std::string uuid;
 
