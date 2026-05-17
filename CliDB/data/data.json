@@ -1,14 +1,35 @@
 {
     "users": [
         {
-            "age": 25,
-            "degree": "MASTER",
-            "email": "sabi@student.mit.edu",
-            "major": "Cs",
-            "name": "sabi",
+            "age": 19,
+            "degree": "Bachelor",
+            "email": "jhon.thomson@example.edu",
+            "major": "Computer Science",
+            "name": "JHON THOMSON",
+            "semester": 2,
+            "university": "Stanford University",
+            "uuid": "6243fa62-2039-1b66-a7dd-5282b2aec142"
+        },
+        {
+            "age": 24,
+            "degree": "Master",
+            "email": "ethan.clark@example.edu",
+            "major": "Cybersecurity",
+            "name": "ETHAN CLARK",
+            "semester": 2,
+            "university": "Carnegie Mellon University",
+            "uuid": "02a67b3e-b674-6e60-c44e-4272cd3f3ddd"
+        },
+        {
+            "age": 28,
+            "degree": "PhD",
+            "email": "asep.setiawan@example.edu",
+            "major": "Artificial Intelligence",
+            "name": "ASEP SETIAWAN",
             "semester": 2,
             "university": "MIT",
-            "uuid": "8f20b56d-93cd-54f0-e61b-254be6c58361"
+            "uuid": "409ac293-9283-549c-923d-748e5bd93913"
         }
     ]
 }
+
