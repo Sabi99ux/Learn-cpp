@@ -1,6 +1,7 @@
 #include <iostream>
 #include "include/add.hpp"
 #include "include/search.hpp"
+#include "include/remove.hpp"
 
 int main() {
 
@@ -20,7 +21,7 @@ int main() {
             int value = add();
         }
         else if (choice == "remove") {
-            // Panggil program remove dari remove.hpp
+            int value = remove();
         } 
         else if (choice == "search") {
             int value = search(); 

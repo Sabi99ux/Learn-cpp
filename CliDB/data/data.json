@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "age": 28,
+            "degree": "MASTER",
+            "email": "sabi@student.mit.edu",
+            "major": "Cs",
+            "name": "Sabi",
+            "semester": 2,
+            "university": "MIT",
+            "uuid": "69198d33-53f6-4aed-cc8c-bea0a63927c6"
+        },
+        {
+            "age": 28,
+            "degree": "MASTER",
+            "email": "rui@student.mit.edu",
+            "major": "Cs",
+            "name": "rui",
+            "semester": 2,
+            "university": "MIT",
+            "uuid": "20918d20-51ad-78a8-e716-cda6f8702946"
+        }
+    ]
+}
