@@ -25,7 +25,14 @@ int search() {
             user.contains("uuid") &&
             user["uuid"] == uuid
         ) {
-            std::cout << user.dump(4) << std::endl;
+            std::cout << "Name : " << user["name"] << "\n" ;
+            std::cout << "Age : " << user["age"] << "\n" ;
+            std::cout << "University : " << user["university"] << "\n" ;
+            std::cout << "Major : " << user["major"] << "\n" ;
+            std::cout << "Degree : " << user["degree"] << "\n" ;
+            std::cout << "Semester : " << user["semester"] << "\n" ;
+            std::cout << "Email : " << user["email"] << "\n" ;
+            std::cout << "UUID : " << user["uuid"] << "\n" ;
             found = true;
             break;
         }
