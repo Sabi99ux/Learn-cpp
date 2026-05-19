@@ -105,13 +105,3 @@ Linux / macOS:
 - Compiler: g++
 
 ---
-
-# Pengembangan Selanjutnya
-
-- Edit/update data
-- Pagination
-- Error handling yang lebih baik
-- Warna pada output CLI
-- Enkripsi file JSON
-- Dukungan multi-table
-- Sistem backup data
